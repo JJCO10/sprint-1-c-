@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JJCO10\\Documents\\Devops\\archivo txt\\practica\\practica.csproj",
+      "projectUniqueName": "C:\\Users\\JJCO10\\Desktop\\Devops\\archivo txt\\practica\\practica.csproj",
       "projectName": "practica",
-      "projectPath": "C:\\Users\\JJCO10\\Documents\\Devops\\archivo txt\\practica\\practica.csproj",
+      "projectPath": "C:\\Users\\JJCO10\\Desktop\\Devops\\archivo txt\\practica\\practica.csproj",
       "packagesPath": "C:\\Users\\JJCO10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JJCO10\\Documents\\Devops\\archivo txt\\practica\\obj\\",
+      "outputPath": "C:\\Users\\JJCO10\\Desktop\\Devops\\archivo txt\\practica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JJCO10\\AppData\\Roaming\\NuGet\\NuGet.Config",
